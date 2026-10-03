@@ -1,2 +1,3 @@
-# --pflegedienst-petersen-investition
-Website zum geplanten Aufbau des ambulanten Pflegedienstes Petersen in Hamburg und zur Suche nach einem Finanzierungspartner.
+# pflegedienst-petersen-investition
+
+Statische persönliche Website von Mark Petersen. Bereitstellung kostenlos über GitHub Pages in einem öffentlichen Repository. Keine eigene Domain, keine Analyse- oder Trackingdienste.
